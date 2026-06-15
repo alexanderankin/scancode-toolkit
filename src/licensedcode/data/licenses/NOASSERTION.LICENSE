@@ -1,0 +1,20 @@
+---
+key: NOASSERTION
+short_name: NOASSERTION
+name: NOASSERTION
+category: NOASSERTION
+owner: Spdx
+homepage_url: https://spdx.org/rdf/spdx-terms-v2.1/
+notes: Indicates that the preparer of the SPDX document is not making any assertion regarding the value of this field.
+spdx_license_key: NOASSERTION
+text_urls:
+    - https://spdx.org/rdf/spdx-terms-v2.1/
+#osi_url:
+#faq_url:
+#other_urls:
+#    - http://www.opensource.org/licenses/Zlib
+#    - http://www.zlib.net/zlib_license.html
+#    - https://opensource.org/licenses/Zlib
+minimum_coverage: 10
+---
+Indicates that the preparer of the SPDX document is not making any assertion regarding the value of this field.
